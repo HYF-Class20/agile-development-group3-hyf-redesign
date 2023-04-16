@@ -1,44 +1,31 @@
 # Communication
 
-## Group Rules
-
-<!-- any general rules you'd like to set for your group? -->
-
----
-
-## Communication Schedule
-
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
-
-## Communication Channels
-
-how often will we get in touch on each channel, and what we will discuss there:
-
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
-
 ---
 
 ## Availability
 
-### Availability for calling/messaging
+### Availability
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday |  Sunday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :------: |
+| Herbert | 18 - 24 | 18 - 24 |  18 - 24  | 18 - 24  | 18 - 24 | :------: | :------: |
+| Ibrahim | 17 - 22 | 17 - 22 |  17 - 22  | 17 - 22  | 17 - 22 | :------: | :------: |
+| Sachin  | 19:30 - | 19:30 - |  19:30 -  | 19:30 -  | 19:30 - | :------: | :------: |
+
+---
+
+### Daily meetings meetings
+
+| Day |    Monday     |    Tuesday    |   Wednesday   |   Thursday    |    Friday     | Saturday | Sunday |
+| --- | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :------: | :----: |
+| All | 19:30 - 20:30 | 19:30 - 20:30 | 19:30 - 20:30 | 19:30 - 20:30 | 19:30 - 20:30 |          |        |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Herbert: _6h_ ; 5h for indivisual task and 1h for collabration.
+- Amanuel: _4h_ ; 3h for indivisual task and 1h for collabration
+- Sachin: _4h_ ; 3h for indivisual task and 1h for collabration
+- Nursen: _4h_ ; 3h for indivisual task and 1h for collabration
 
 ## Asking for Help
 
