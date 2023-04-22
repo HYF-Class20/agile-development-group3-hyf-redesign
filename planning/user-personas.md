@@ -6,7 +6,7 @@
 
 <!-- a persona -->
 
-## Their Role
+## Student
 
 - **Bio**: John Smith, 24 Yrs old
 - **Needs/Goals**: I intrested in joining the Hack your future program
@@ -15,6 +15,8 @@
   is about, what is the durartion and curriculum of the course.
 
 ---
+
+## Coach
 
 - **Bio**: Luke Skywalker, 23 Yrs old
 - **Needs/Goals**: I am a programmer and am intrested in teaching my skills to
