@@ -1,3 +1,7 @@
+/* styles for the main-page */
+
+/* styles for main=page/intro */
+
 body {
   margin: 0;
   padding: 0;
@@ -17,7 +21,7 @@ body {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("./home-intro.jpg"); /* set the background, single non-repeating image taking the whole assigning space */
+  background-image: url("/public/images/pictures/main-page-but-thats-not-it.jpg"); /* set the background, single non-repeating image taking the whole assigning space */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
