@@ -24,7 +24,7 @@ body {
   filter: brightness(
     0.8
   ); /* lessen the brightness of the background, otherwise white text is barely visible */
-  
+
   z-index: -1; /* move the pseudo-element behind other content */
 }
 
