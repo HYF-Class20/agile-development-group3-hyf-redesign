@@ -1,0 +1,245 @@
+/* volunteer page  */
+body {
+  background-color: rgb(254, 254, 254);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(149, 145, 145);
+}
+
+header {
+  position: relative;
+  top: 0;
+}
+
+/* header part  */
+
+.header-left-links {
+  display: inline;
+  justify-content: start;
+  padding: 1.5vw;
+  margin: 1vw;
+  height: 10px;
+  width: 2px;
+  cursor: pointer;
+}
+
+.header-right-links {
+  display: inline-flex;
+  position: relative;
+  left: 37vw;
+  padding: 15px;
+  margin: 15px;
+  border: 10px;
+  gap: 20px;
+  text-decoration: none;
+  font-weight: 10px;
+  font-size: 1.1vw;
+  align-items: center;
+}
+
+.header-btn {
+  padding: 0.8vw;
+  border-radius: 5px;
+  border: 5px;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  align-items: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 15px;
+  font-size: 0.9vw;
+  cursor: pointer;
+}
+
+/* volunteer-div  */
+
+.volunteer-div {
+  display: inline-flex;
+  position: relative;
+  left: 28vw;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  padding-top: 8%;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 2vw;
+  font-size: 2.5vw;
+  color: rgb(28, 34, 148);
+}
+
+.volunteer-paragraph {
+  font-family: "Work Sans", sans-serif;
+  text-align: center;
+  color: rgb(56, 59, 64);
+  font-size: 1.7vw;
+  font-weight: 250;
+}
+
+.volunteer-btn-div {
+  display: inline;
+  padding-bottom: 80px;
+}
+
+.coach-btn {
+  padding: 1.1vw;
+  font-size: 0.8vw;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: bold;
+  border-radius: 7px;
+}
+
+.mentor-btn {
+  padding: 1.1vw;
+  font-size: 0.8vw;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: bold;
+  border-radius: 7px;
+}
+
+/* WHY SHOULD I VOLUNTEER AT HYF? */
+
+.grid-container {
+  align-items: center;
+  display: grid;
+  column-gap: 40px;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: rgb(248, 249, 252);
+  padding: 30px;
+}
+
+.one {
+  padding: 3vw;
+  font-size: 1.4vw;
+  font-weight: bold;
+  text-align: center;
+  grid-column: 1/2;
+  grid-row: 1/5;
+  color: rgb(28, 34, 148);
+}
+
+.two {
+  padding: 70px;
+  background-image: url(grid-connection.svg);
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+
+.three {
+  padding: 70px;
+  background-image: url(grid-knowledge.svg);
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+
+.four {
+  padding: 70px;
+  background-image: url(grid-culture.svg);
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+
+.five {
+  padding: 70px;
+  background-image: url(grid-code.svg);
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+
+/* coaches div */
+
+.coaches-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(241, 240, 240);
+  padding-bottom: 50px;
+}
+
+.img-coach {
+  padding: 1px;
+  height: 35vw;
+}
+
+.coach-paragraph {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1vw;
+  word-break: break-all;
+  word-spacing: 4px;
+  padding: 50px;
+  text-align: justify;
+  background-color: white;
+  border: 12px;
+}
+
+b {
+  color: rgb(12, 12, 143);
+}
+
+.discover-coaches-btn {
+  position: relative;
+  top: -5px;
+  padding: 12px;
+  font-size: 0.8vw;
+  border-radius: 3px;
+  background-color: rgb(74, 80, 187);
+  color: white;
+}
+
+/* mentors div */
+
+.mentors-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(241, 240, 240);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.mentor-paragraph {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.2vw;
+  word-break: break-all;
+  word-spacing: 10px;
+  padding: 60px;
+  text-align: justify;
+  background-color: white;
+}
+
+.discover-mentors-btn {
+  padding: 10px;
+  position: relative;
+  top: -5px;
+  left: 186px;
+  font-size: 0.8vw;
+  border-radius: 3px;
+  background-color: rgb(74, 80, 187);
+  color: white;
+}
+
+.img-mentor {
+  padding: 1px;
+  height: 37vw;
+}
+
+/* footer */
+
+.footer-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.footer-h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+  font-weight: 800;
+  color: rgb(28, 34, 148);
+}
