@@ -28,7 +28,7 @@ header {
 .header-right-links {
   display: inline-flex;
   position: relative;
-  left: 37vw;
+  left: 31vw;
   padding: 15px;
   margin: 15px;
   border: 10px;
@@ -125,28 +125,28 @@ h1 {
 
 .two {
   padding: 70px;
-  background-image: url(grid-connection.svg);
+  background-image: url(/public/images/volunteer-page/grid-connection.svg);
   background-repeat: no-repeat;
   background-position-y: center;
 }
 
 .three {
   padding: 70px;
-  background-image: url(grid-knowledge.svg);
+  background-image: url(/public/images/volunteer-page/grid-knowledge.svg);
   background-repeat: no-repeat;
   background-position-y: center;
 }
 
 .four {
   padding: 70px;
-  background-image: url(grid-culture.svg);
+  background-image: url(/public/images/volunteer-page/grid-culture.svg);
   background-repeat: no-repeat;
   background-position-y: center;
 }
 
 .five {
   padding: 70px;
-  background-image: url(grid-code.svg);
+  background-image: url(/public/images/volunteer-page/grid-code.svg);
   background-repeat: no-repeat;
   background-position-y: center;
 }
@@ -239,7 +239,12 @@ b {
 
 .footer-h3 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: larger;
+  font-size: 1.8vw;
   font-weight: 800;
   color: rgb(28, 34, 148);
+}
+
+.footer-paragraph {
+  color: rgb(98, 98, 98);
+  font-size: 1.3vw;
 }
